@@ -36,6 +36,17 @@ Soil-Health Storyteller is an AI-based smart agriculture system that analyzes so
 ## System Architecture
 Input → Processing → ML Model → Rule Engine → Scoring → Recommendation → Output Report → Chatbot
 
+## 📸 Outputs / Results
+
+### 🔹 Soil Input Interface
+![Input](outputs/image1.png)
+
+### 🔹 AI Soil Report
+![Report](outputs/image2.png)
+
+### 🔹 Chatbot Interaction
+![Chatbot](outputs/image3.png)
+
 
 ## How to Run
 ```bash
